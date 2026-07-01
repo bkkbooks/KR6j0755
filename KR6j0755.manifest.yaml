@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0755/v1
+canonical_location: https://kanripo.org/bkk/KR6j0755/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 於密滲施食旨槩
+  identifiers:
+    alt_id:
+    - X59n1082
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1082.xml
+    old_id: X59n1082
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0755_000.yaml, hash: 'sha256:edc44c3f32f2de9ced0f276b175e8310710278d7f26f49fac5c36efaf1acbb20'}
+  - {seq: 1, filename: KR6j0755_001.yaml, hash: 'sha256:bf4c531411e9cc58d79116d223c9792672e7302eca962eb97a922c931d0926b4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0755_001.markers.yaml, hash: 'sha256:6a223d6e13d652fc6729f3db52fb0c91afe5add22c63364249326183274dc0fa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0755_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2999
+  label: 於密滲施食旨槩
+  type: juan
+  level: 1
+hash: sha256:07ea6c43400ada28066095eb5b951e0d2b3fb1bffa5e128f058e97d64d8cae61
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

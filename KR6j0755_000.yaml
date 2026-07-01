@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0755/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 於密滲施食旨槩
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1082.xml
+    old_id: X59n1082
+hash: sha256:edc44c3f32f2de9ced0f276b175e8310710278d7f26f49fac5c36efaf1acbb20
