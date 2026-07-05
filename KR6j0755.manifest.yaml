@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0755_000.yaml, hash: 'sha256:edc44c3f32f2de9ced0f276b175e8310710278d7f26f49fac5c36efaf1acbb20'}
-  - {seq: 1, filename: KR6j0755_001.yaml, hash: 'sha256:bf4c531411e9cc58d79116d223c9792672e7302eca962eb97a922c931d0926b4'}
+  - {seq: 1, filename: KR6j0755_001.yaml, hash: 'sha256:b6bf687796b5e137cec216b4ac1f778b8b167b6b148532755a02be5b72455fb9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0755_001.markers.yaml, hash: 'sha256:6a223d6e13d652fc6729f3db52fb0c91afe5add22c63364249326183274dc0fa'}
+  - {seq: 0, role: markers, filename: assets/KR6j0755_000.markers.yaml, hash: 'sha256:0f938ebc00ad49514cfd08cac5564939367cf58839342151cbb841fc1a97a5ed'}
+  - {seq: 1, role: markers, filename: assets/KR6j0755_001.markers.yaml, hash: 'sha256:d5e4fe523097974e4318af7dcb286be34978e76902e175f3a13cd3de65179b24'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 於密滲施食旨槩
   type: juan
   level: 1
-hash: sha256:07ea6c43400ada28066095eb5b951e0d2b3fb1bffa5e128f058e97d64d8cae61
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:39c370f755b9b346eff7d5279f8f4807f3d70e0c9525536daf1657b0b3794010
