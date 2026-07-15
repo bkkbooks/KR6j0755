@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0755/v1
 canonical_location: https://kanripo.org/bkk/KR6j0755/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 於密滲施食旨槩
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0755_000.yaml, hash: 'sha256:edc44c3f32f2de9ced0f276b175e8310710278d7f26f49fac5c36efaf1acbb20'}
-  - {seq: 1, filename: KR6j0755_001.yaml, hash: 'sha256:b6bf687796b5e137cec216b4ac1f778b8b167b6b148532755a02be5b72455fb9'}
+  - {seq: 1, filename: KR6j0755_001.yaml, hash: 'sha256:b52c988d06a31d5271b315dafa046840c1c602f7bf06ce9df00902d8e33936eb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0755_000.markers.yaml, hash: 'sha256:0f938ebc00ad49514cfd08cac5564939367cf58839342151cbb841fc1a97a5ed'}
-  - {seq: 1, role: markers, filename: assets/KR6j0755_001.markers.yaml, hash: 'sha256:d5e4fe523097974e4318af7dcb286be34978e76902e175f3a13cd3de65179b24'}
+  - {seq: 1, role: markers, filename: assets/KR6j0755_001.markers.yaml, hash: 'sha256:526c443d07ff1bc72e670a7886a1b787625253a692f1d788be4db90584a660f4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 於密滲施食旨槩
   type: juan
   level: 1
-hash: sha256:39c370f755b9b346eff7d5279f8f4807f3d70e0c9525536daf1657b0b3794010
+hash: sha256:6a330771957ed16ee29251565910a0bdbf01c9cc058c2b5ce809462a25de837d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
